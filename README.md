@@ -34,40 +34,50 @@
 The y-axis base, or the azimuthal axis, is perpendicular to the z-axis and lies in the xy-plane. It helps determine the rotation around the z-axis, affecting the position of the point in the horizontal plane.
 ### Z-Axis Frame :
 
-This is the frame that holds the print head and moves it up and down along the vertical axis.
-### Smooth Rods :
+the Z-axis frame in a 3D polar printer is to provide stability, control, and accuracy in the vertical movement of the print head, enabling precise layering and the creation of high-quality 3D prints.
 
-The smooth rods that provide smooth and accurate movement of the Z-axis frame.
+### Smooth Rods :
+Smooth rods in a 3D polar printer play a vital role in providing stability, guiding motion, reducing friction, and ensuring accurate and smooth movement of the print head or extruder carriage along the X and Y axes.
+
 ### Motors :
 
-provide the power to move the Z-axis frame and the print head.
+In a 3D polar printer, motors play a crucial role in controlling the movement and positioning of the print head or extruder. The purpose of motors in a 3D polar printer is to translate the digital design or model into physical objects by precisely moving the print head along different axes.
+
+
 ### Extruder Supporter :
 
-The support structure that holds the extruder assembly.
+Extruder Support is support structure that holds the extruder assembly, which results in smooth surfaced 3d model.
 ### Threaded Rod :
 
-Threaded rod that provides the power to move the Z-axis frame up and down.
+In a 3D polar printer, a threaded rod is commonly used as part of the Z-axis mechanism. The purpose of a threaded rod in a 3D polar printer is to control the vertical movement of the print bed or build plate.
+
 ### Y-Axis Frame :
 
-The frame that moves the print head in the horizontal plane.
+The Y-axis frame refers to the structure that supports the movement of the print bed or build plate in the Y-direction.
+
 ### Motor with Gear :
 
-provides the power to move the Y-axis frame.
+In a 3D polar printer, a motor with a gear is commonly used to drive the rotation of a rotating platform or turntable. The purpose of this motor with gear is to enable controlled and precise rotational movement in the polar coordinate system.
+
 ### Motor-with-Pulley :
 
-provides the power to move the Z-axis frame.
+In a 3D polar printer, a motor with a pulley is commonly used to drive the movement of the print head or extruder along the X and Y axes. The purpose of this motor with pulley is to enable controlled and precise linear movement in the polar coordinate system.
+
 ### Gears :
 
-Transfer power from the stepper motors to the threaded rod and the smooth rods.
+In a 3D polar printer, gears are not typically used for the primary motion control of the print head or extruder. Instead, they are commonly employed in other components or mechanisms within the printer for specific purposes.
+
 ### Plate :
 
-plate where the printed object is created.
+The purpose of the plate in a 3D polar printer is to provide a stable and level surface for the initial layers of the print and to facilitate adhesion of the printed object to the surface during the printing process.
+
 ### Extruder :
 
-melts and extrudes the filament to create the printed object.
+In a 3D polar printer, the extruder is a critical component responsible for precisely depositing and controlling the flow of the printing material, typically filament, during the printing process. The purpose of the extruder in a 3D polar printer is to melt and extrude the filament, allowing for the creation of the desired three-dimensional object.
+
 ### Filament :
 
-material that is used to create the printed object.
+In a 3D polar printer, the filament is the raw material used for 3D printing. It is a long, thin thread-like material typically made of plastic, such as PLA (polylactic acid) or ABS (acrylonitrile butadiene styrene). The purpose of the filament in a 3D polar printer is to serve as the material that is melted and deposited layer by layer to create the final 3D printed object.
 
 
 ##                                                      fig(b)-Playing with Axes
